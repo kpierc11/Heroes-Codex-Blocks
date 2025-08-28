@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="35217a25-a5fe-434b-bd20-266e64009426" name="Heroes Codex Admin">
+        <fileTransfer accessType="SFTP" host="45.63.35.2" port="22" sshConfigId="dbffbdf2-85e2-4c99-b273-8a8f7d6ac04a" sshConfig="kpierc90@45.63.35.2:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
